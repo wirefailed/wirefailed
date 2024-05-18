@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wirefailed
+- 👋 Hi, My name is Junsoo Kim
 - 👀 I’m interested in SWE Internship
 - 🌱 I’m currently learning CPP, Pythong, Node.js
 - 💞️ I’m looking to collaborate on anything!
