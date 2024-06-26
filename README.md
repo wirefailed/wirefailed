@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Junsoo Kim
 - 👀 I’m interested in SWE Internship
-- 🌱 I’m currently learning Machine Learning, and full stack development!
+- 🌱 I’m currently learning Machine Learning, and Computer Vision!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me 
 
